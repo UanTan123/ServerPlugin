@@ -1,0 +1,10 @@
+name: ServerPlugin
+version: 1.0-SNAPSHOT
+main: serverplugin.serverplugin.ServerPlugin
+prefix: [ ServerPlugin ]
+authors: [ UN10 ]
+description: My Server Plugin
+commands:
+  fly:
+    description: Only use op commands. fly
+

@@ -1,0 +1,3 @@
+serverplugin\serverplugin\events\PlayerEvents.class
+serverplugin\serverplugin\ServerPlugin.class
+serverplugin\serverplugin\Commands\FlyCommands.class

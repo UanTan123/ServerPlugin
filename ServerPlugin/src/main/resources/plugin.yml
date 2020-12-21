@@ -1,0 +1,10 @@
+name: ServerPlugin
+version: ${project.version}
+main: serverplugin.serverplugin.ServerPlugin
+prefix: [ ServerPlugin ]
+authors: [ UN10 ]
+description: My Server Plugin
+commands:
+  fly:
+    description: Only use op commands. fly
+
